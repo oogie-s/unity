@@ -1,0 +1,41 @@
+.class-form-popup {
+    display:none;
+}
+
+.location-form-popup {
+    display:none;
+}
+
+.ctype-form-popup {
+    display:none;
+}
+
+.exclude-form-popup {
+    display:none;
+}
+
+.bt-table {
+    width: 80%;
+}
+
+.bt-table-date, .bt-table, .bt-th, .bt-td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.location_address_text {
+    width: 100%;
+}
+
+.location_text {
+    width: 100%;
+}
+
+.postcode_text {
+    width: 20%;
+}
+
+.max_students_text {
+    width: 28%;
+}

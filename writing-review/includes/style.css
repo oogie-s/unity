@@ -1,0 +1,18 @@
+.wr-table, .wr-th, .wr-td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.wr-table {
+    width: 95%;
+}
+
+.new_comment {
+    font-size: x-large;
+    color: red;
+}
+
+.comment {
+    color: green;
+}

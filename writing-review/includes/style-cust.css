@@ -1,0 +1,49 @@
+#tandcshow {
+    position: fixed;
+    display: none;
+    width: 85%;
+    height: 100%;
+    top: 10%;
+    left: 10%;
+    right: 10%;
+    bottom: 0;
+    background-color: white;
+    z-index: 2;
+  }
+
+  #tandclink {
+    cursor: pointer;
+    text-decoration: underline;
+  }
+
+  #bclosetandc {
+    display: none;
+    z-index: 3;
+    font-size: 225%;
+    text-decoration: none;
+    text-align: right;
+  }
+
+  #publishme {
+    color:gray;
+  }
+
+  .curropen {
+    font-weight: bold;
+    font-size: 1em;
+  }
+
+  .wr-table, .wr-th, .wr-td {
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.wr-table {
+    width: 95%;
+}
+
+.new_comment {
+    font-size: x-large;
+    color: red;
+}
